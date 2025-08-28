@@ -8,3 +8,17 @@ function calculateArea() {
       document.getElementById('result').innerText = `The area of the rectangle is: ${area}`;
 
 }
+
+let grocery1;
+let grocery2;
+let grocery3;
+
+function totalAmount() {
+    grocery1 = parseFloat(document.getElementById("grocery1").value);
+    grocery2 = parseFloat(document.getElementById("grocery2").value);
+    grocery3 = parseFloat(document.getElementById("grocery3").value);
+
+    let totalAmount =  grocery1 +  grocery2 +  grocery3;
+    document.getElementById("result").innerText = `The total amount of groceries is: ${totalAmount}`;
+    
+}
