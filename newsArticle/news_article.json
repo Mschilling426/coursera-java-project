@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "title": "Global Climate Summit 2025",
+      "description": "World leaders gather to discuss urgent climate action and sustainable development goals.",
+      "highlights": [
+        "Commitment to net-zero emissions by 2050.",
+        "Funding for renewable energy projects.",
+        "International cooperation on carbon pricing."
+      ],
+      "impact": [
+        "Accelerated green tech innovation.",
+        "Stronger climate policies worldwide.",
+        "Increased public awareness and engagement."
+      ]
+    },
+    {
+      "title": "Breakthrough in Cancer Research",
+      "description": "Scientists unveil a promising new therapy that targets cancer cells with unprecedented precision.",
+      "highlights": [
+        "Uses AI to identify mutation patterns.",
+        "Minimizes damage to healthy tissue.",
+        "Successful trials in multiple countries."
+      ],
+      "impact": [
+        "Improved survival rates.",
+        "Reduced treatment side effects.",
+        "New hope for patients and families."
+      ]
+    }
+  ]
+}
